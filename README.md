@@ -5,12 +5,12 @@ __Repository for Coursera :: Getting and Cleaning Data Course__
 R Source code used in lecture slides.
 
 ### Week 1 ###
-* [Downloading Files](https://github.com/nickhepler/getdata-013/blob/master/lecture/wk1/downloading_files.R)
-* [Reading Local Flat Files](https://github.com/nickhepler/getdata-013/blob/master/lecture/wk1/reading_local_flat_files.R)
-* [Reading Excel Files](https://github.com/nickhepler/getdata-013/blob/master/lecture/wk1/reading_excel_files.R)
-* [Reading XML](https://github.com/nickhepler/getdata-013/blob/master/lecture/wk1/reading_xml.R)
-* [Reading JSON](https://github.com/nickhepler/getdata-013/blob/master/lecture/wk1/reading_json.R)
-* [Using_data.table](https://github.com/nickhepler/getdata-013/blob/master/lecture/wk1/using_data_table.R)
+* [Downloading Files](https://github.com/nickhepler/getdata-014/blob/master/lecture/wk1/downloading_files.R)
+* [Reading Local Flat Files](https://github.com/nickhepler/getdata-014/blob/master/lecture/wk1/reading_local_flat_files.R)
+* [Reading Excel Files](https://github.com/nickhepler/getdata-014/blob/master/lecture/wk1/reading_excel_files.R)
+* [Reading XML](https://github.com/nickhepler/getdata-014/blob/master/lecture/wk1/reading_xml.R)
+* [Reading JSON](https://github.com/nickhepler/getdata-014/blob/master/lecture/wk1/reading_json.R)
+* [Using_data.table](https://github.com/nickhepler/getdata-014/blob/master/lecture/wk1/using_data_table.R)
 
 
 ### Week 2 ###
