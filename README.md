@@ -14,21 +14,26 @@ R Source code used in lecture slides.
 
 
 ### Week 2 ###
-* [Reading from MySQL](https://github.com/nickhepler/getdata-013/blob/master/lecture/reading_mySQL.R)
-* [Reading from rhdf5](https://github.com/nickhepler/getdata-013/blob/master/lecture/reading_rhdf5.R)
-* [Reading from API](https://github.com/nickhepler/getdata-013/blob/master/lecture/reading_api.R)
-* [Reading from the Web](https://github.com/nickhepler/getdata-013/blob/master/lecture/reading_web.R)
+* [Reading from MySQL](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk2/reading_mySQL.R)
+* [Reading from rhdf5](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk2/reading_rhdf5.R)
+* [Reading from API](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk2/reading_api.R)
+* [Reading from the Web](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk2/reading_web.R)
 
 ### Week 3 ###
 
 ### Week 4 ###
 
 ## Swirl Assignments ##
-* [Part One :: Manipulating Data with dplyr](https://github.com/nickhepler/getdata-013/blob/master/swirl/dplyr_part1.R)
-* [Part Two :: Grouping and Chaining with dply](https://github.com/nickhepler/getdata-013/blob/master/swirl/dplyr_part2.R)
+Input used to complete Swirl Assignments.
 
-## Quizes ##
-* [Week 2 Quiz](https://github.com/nickhepler/getdata-013/blob/master/quiz/quiz_2.R)
+* [Part One :: Manipulating Data with dplyr](https://github.com/nickhepler/getdata-014/blob/master/swirl/dplyr_part1.R)
+* [Part Two :: Grouping and Chaining with dply](https://github.com/nickhepler/getdata-014/blob/master/swirl/dplyr_part2.R)
+
+## Quizzes ##
+Solutions used to complete Quizzes.
+
+* [Week 1 Quiz](https://github.com/nickhepler/getdata-014/blob/master/quizzes/quiz_1.R)
+* [Week 2 Quiz](https://github.com/nickhepler/getdata-013/blob/master/quizzes/quiz_2.R)
 
 ## Resources & Further Reading ##
 ### Week 1 ###
