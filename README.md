@@ -1,5 +1,5 @@
-# getdata-014
-__Repository for Coursera :: Getting and Cleaning Data Course__
+# Coursera :: Getting and Cleaning Data Course #
+__Repository for getdata-014, 04/05/2015 to 31/05/2015__
 
 ## Lectures ##
 R Source code used in lecture slides.
@@ -33,14 +33,14 @@ Input used to complete Swirl Assignments.
 Solutions used to complete Quizzes.
 
 * [Week 1 Quiz](https://github.com/nickhepler/getdata-014/blob/master/quizzes/quiz_1.R)
-* [Week 2 Quiz](https://github.com/nickhepler/getdata-013/blob/master/quizzes/quiz_2.R)
+* [Week 2 Quiz](https://github.com/nickhepler/getdata-014/blob/master/quizzes/quiz_2.R)
 
 ## Resources & Further Reading ##
+Selected resources mentioned in slides.
+
 ### Week 1 ###
 
 ### Week 2 ###
-
-Selected resources mentioned in slides.
 
 * [MySQL Wikipedia Entry](https://en.wikipedia.org/wiki/MySQL)
 * [MySQL Official Site](http://www.mysql.com/)
