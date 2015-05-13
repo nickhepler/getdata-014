@@ -40,6 +40,14 @@ Solutions used to complete Quizzes.
 
 ### Week 2 ###
 
+Selected resources mentioned in slides.
+
+* [MySQL Wikipedia Entry](https://en.wikipedia.org/wiki/MySQL)
+* [MySQL Official Site](http://www.mysql.com/)
+* [RMySQL Vignette](http://cran.r-project.org/web/packages/RMySQL/RMySQL.pdf)
+* [MySQL Commands](http://www.pantz.org/software/mysql/mysqlcommands.html)
+* [MySQL and R](http://www.r-bloggers.com/mysql-and-r/)
+
 ### Week 3 ###
 
 ### Week 4 ###
