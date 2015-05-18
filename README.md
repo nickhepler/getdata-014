@@ -50,4 +50,10 @@ Selected resources mentioned in slides.
 
 ### Week 3 ###
 
+* [Data Summarization and Manipulation Lecture](http://www.biostat.jhsph.edu/~ajaffe/lec_winterR/Lecture%202.pdf)
+* [Quick R List of Built-in Functions](http://statmethods.net/management/functions.html)
+* [plyr Tutorial](http://plyr.had.co.nz/09-user/)
+* [SlideShare :: Reshaping Data in R](http://www.slideshare.net/jeffreybreen/reshaping-data-in-r)
+* [A quick primer on split-apply-combine problems](http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/)
+
 ### Week 4 ###
