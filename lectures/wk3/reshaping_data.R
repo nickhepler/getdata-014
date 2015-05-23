@@ -2,6 +2,7 @@
 #  Reshaping Data
 
 require(reshape2)
+require(plyr)
 head(mtcars)
 
 #  Melting data frames
@@ -41,3 +42,6 @@ ddply(InsectSprays,.(spray),summarize,sum=sum(count))
 spraySums <- ddply(InsectSprays,.(spray),summarize,sum=ave(count,FUN=sum))
 dim(spraySums)
 head(spraySums)
+
+detach("package:reshape2", unload=TRUE)
+detach("package:plyr", unload=TRUE)
