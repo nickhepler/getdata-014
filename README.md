@@ -20,6 +20,12 @@ R Source code used in lecture slides.
 * [Reading from the Web](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk2/reading_web.R)
 
 ### Week 3 ###
+* [Subsetting and Sorting](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/subsetting_sorting.R)
+* [Summarizing Data](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/summarizing_data.R)
+* [Creating New Variables](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/creating_new_variables.R)
+* [Reshaping Data](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/reshaping_data.R)
+* [Managing Data Frames with dplyr - Basic Tools](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/data_frames_dplyr.R)
+* [Merging Data](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/merging_data.R)
 
 ### Week 4 ###
 
@@ -55,5 +61,6 @@ Selected resources mentioned in slides.
 * [plyr Tutorial](http://plyr.had.co.nz/09-user/)
 * [SlideShare :: Reshaping Data in R](http://www.slideshare.net/jeffreybreen/reshaping-data-in-r)
 * [A quick primer on split-apply-combine problems](http://www.r-bloggers.com/a-quick-primer-on-split-apply-combine-problems/)
+* [Quick R Merging Data](http://www.statmethods.net/management/merging.html)
 
 ### Week 4 ###
