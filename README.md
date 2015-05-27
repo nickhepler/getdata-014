@@ -40,6 +40,7 @@ Solutions used to complete Quizzes.
 
 * [Week 1 Quiz](https://github.com/nickhepler/getdata-014/blob/master/quizzes/quiz_1.R)
 * [Week 2 Quiz](https://github.com/nickhepler/getdata-014/blob/master/quizzes/quiz_2.R)
+* [Week 3 Quiz](https://github.com/nickhepler/getdata-014/blob/master/quizzes/quiz_3.R)
 
 ## Resources & Further Reading ##
 Selected resources mentioned in slides.
