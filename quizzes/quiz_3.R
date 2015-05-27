@@ -27,12 +27,12 @@ require(jpeg)
 
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fjeff.jpg",
   "./data/jeff.jpg",
-  method = "wb")
+  method = "auto") # Unable to install jpeg package, had to complete in Windows.
 
-pic <- readJPEG(pic, native = TRUE)
+pic <- readJPEG("./data/jeff.jpg", native = TRUE)
 quantile(pic, probs = c(0.3, 0.8))
 
-# Answer:
+# Answer: -16776939 -10092545
 rm(pic)
 unlink("./data/jeff.jpg")
 detach("package:jpeg", unload=TRUE)
@@ -59,7 +59,7 @@ gdp <- rename(gdp, CountryCode = X, Rank = X.1, Country = X.3, GDP = X.4)
 
 download.file("https://d396qusza40orc.cloudfront.net/getdata%2Fdata%2FEDSTATS_Country.csv",
               "./data/Country.csv",
-              method = 'curl')
+              method = "curl")
 country <- read.csv("./data/Country.csv")
 
 head(country, 2)
