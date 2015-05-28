@@ -28,6 +28,8 @@ R Source code used in lecture slides.
 * [Merging Data](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk3/merging_data.R)
 
 ### Week 4 ###
+* [Editing Text Variables](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk4/editing_text_variables.R)
+* [Working With Dates](https://github.com/nickhepler/getdata-014/blob/master/lectures/wk4/working_with_dates.R)
 
 ## Swirl Assignments ##
 Input used to complete Swirl Assignments.
@@ -65,3 +67,6 @@ Selected resources mentioned in slides.
 * [Quick R Merging Data](http://www.statmethods.net/management/merging.html)
 
 ### Week 4 ###
+
+* [Do more with dates and times in R with lubridate](http://www.r-statistics.com/2012/03/do-more-with-dates-and-times-in-r-with-lubridate-1-1-0/)
+* [lubridate vignette](http://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html)
