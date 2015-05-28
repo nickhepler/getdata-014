@@ -77,3 +77,10 @@ paste("Jeffrey","Leek")
 
 paste0("Jeffrey","Leek")
 str_trim("Jeff      ")
+
+# Clean up Global environment
+detach("package:stringr", unload=TRUE)
+rm(list=ls())
+unlink("./data/cameras.csv")
+unlink("./data/reviews.csv")
+unlink("./data/solutions.csv")
